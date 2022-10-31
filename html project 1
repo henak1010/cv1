@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title> 🚀HTML project1</title>
+ <link rel="stylesheet" href="css project">
+ 
+ <meta name="description" content="this is persona development skill by profesor henok ">
+</head>
+<body>  
+    <p>
+
+<center>
+    <H1>
+        ABOUT ME  
+    </H1>
+    <h3> 
+        am henok tariku and am senior web developer
+        
+        </h3>
+        
+
+
+</center>
+
+    </p>
+<cente>
+    <table cellspacing="30px" >
+<tr>
+
+<td>
+    <img  src="image/henak-modified.png" alt="henak101" class="ew">
+
+</td>
+
+<td>
+
+    <strong>
+      <h1>
+        HENOK TARIKU
+      </h1>
+<br> 
+<hr>
+         am junior softwer developer and 
+        <br> is my firtst sample web so please advise me 
+        <br>you will see my first web to be this link 
+        <br>
+    <a href="idea.html">my first web</a>
+    
+      
+        
+        </strong>
+          <br> 
+        
+           
+
+          <em>
+            
+            "Indifferent people are afraid of the <br>
+        world and the repercussions of their <br>
+        own choices. That’s why they don’t<br>
+        make any meaningful choices. They hide<br>
+        in a gray, emotionless pit of their own<br>
+        making, self-absorbed and self-pitying,<br>
+        perpetually distracting themselves from<br>
+        this unfortunate thing demanding their<br>
+        time and energy called life."<br>
+        </em>
+
+</td>
+
+
+</tr>
+
+
+    </table>
+   
+    
+      <hr>
+    
+
+
+</center>
+    <center>
+<hr color="bisque" noshade size="10px" >
+<h1> THE FINAL PROJECT OF LIFE </h1>
+        <br>
+        <h1>TO BE <H1>
+            <H1>A PERSON</h1>
+        <H1>TO LIVE IN WORLED</H1>
+<hr color="bisque " noshade size="10px">
+    </center> 
+    <p id="1" ><strong>what is life</strong> :it one of interesting thing everything.
+    <br>but money people it have no to be interest live and there is not find own purpose to be Live 
+    <br>this cause by mental behaver and spirituality
+    <ul>
+<li>
+<strong>best definition of life is :</strong>It can be called life or life, which makes things independent and living on their own
+<br>
+And it is what makes them different from the non-living ones.
+<br>
+This will continue until death follows or until they are disabled from doing this process.
+<br>
+Biology is the branch of science that studies life and living things.
+<br>
+The existence of living things is mainly determined by the existence of their underlying cells.
+</li>
+
+    </ul>
+<ul>
+<li>
+
+    <strong>in Amharic(ሕይወት)</strong> 
+
+    ሕይወት ወይም ሂወት ሊባል ይችላል፣ ነገሮች ራሳቸውን ችለው እና የህይወት ክንውን አድርገው በራሳቸው እንዲኖሩ የሚያደርግ 
+    <br>
+    እና ህይወት ከሌላቸው እንዲለዩ የሚያደርግ ነው። ይህ ሁኔታ ሞት እስከሚከተል ድረስ ወይም ይህንን ሂደት እንዳያደርጉ እክል እስከሚገጥማቸው ድረስ ይቀጥላል።
+    <br>
+    ሥነ-ህይወት የሚባለው የሳይንስ ዘርፍ ስለ ህይወት እና ህይወት ያላቸው ነገሮች የሚያጠና የትምህርት ዘርፍ ነው። 
+    <br> የህይወት ያላቸው ነገሮች ህልውና በዋናነት የሚረጋገጠው የነርሱ መሰረት በሆነው ህዋስ መኖር ነው።
+    
+    </p>
+
+    <h3>
+        the main thing of life is spirituality.
+        </h3>
+    
+            <h1>my contact details</h1>
+            <h3>
+                my functional address :0916421521
+            
+            </h3>
+            
+                
+            my email <a href="henak1012@gmail.com">my email</a>
+            <form action="mailto:info@henak1012.com" method="post" enctype="text/plain">
+            <label > your name:</label>
+            <input type="text" name="" value="Right Your Name please">
+            <br>
+            <label >your email</label>
+            <input type="email" name="your email"value="enter you email ">
+            <label >password:</label>
+            <input type="password" value="Right Your Passsword">
+            <br>
+            
+            <label >right date</label>
+            <input type="date">
+            <br>
+            <label >unload you file</label>
+            <input type="file" name="" id="">
+            <br>
+            <label > your message</label>
+            <textarea name="" id="" cols="30" rows="10">text area</textarea>
+            <br>
+            <label>do you to sign up to the email list?</label>
+            <input type="checkbox">
+            <input type="submit" name="" >
+            
+            
+            </form>
+            
+            
+           
+            
+                
+            
+            
+            
+                 
+
+
+       
+
+<!-- <img src="image/henak-modified.png" alt="henak1012"> -->
+</body>
+</html>        

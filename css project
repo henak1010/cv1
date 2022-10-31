@@ -1,0 +1,8 @@
+body{
+    text-transform: capitalize;
+    text-align: justify;
+    color:white;
+    background-color: black;
+    
+}
+
